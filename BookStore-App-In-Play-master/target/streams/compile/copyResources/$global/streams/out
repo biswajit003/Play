@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(F:\PlayFrameworkProjects\BookStore-App-In-Play-master\conf\application.conf,F:\PlayFrameworkProjects\BookStore-App-In-Play-master\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(F:\PlayFrameworkProjects\BookStore-App-In-Play-master\conf\evolutions,F:\PlayFrameworkProjects\BookStore-App-In-Play-master\target\scala-2.11\classes\evolutions)[0m
+[0m[[0mdebug[0m] [0m	(F:\PlayFrameworkProjects\BookStore-App-In-Play-master\conf\logback.xml,F:\PlayFrameworkProjects\BookStore-App-In-Play-master\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(F:\PlayFrameworkProjects\BookStore-App-In-Play-master\conf\routes,F:\PlayFrameworkProjects\BookStore-App-In-Play-master\target\scala-2.11\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(F:\PlayFrameworkProjects\BookStore-App-In-Play-master\conf\evolutions\default,F:\PlayFrameworkProjects\BookStore-App-In-Play-master\target\scala-2.11\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(F:\PlayFrameworkProjects\BookStore-App-In-Play-master\conf\evolutions\default\1.sql,F:\PlayFrameworkProjects\BookStore-App-In-Play-master\target\scala-2.11\classes\evolutions\default\1.sql)[0m

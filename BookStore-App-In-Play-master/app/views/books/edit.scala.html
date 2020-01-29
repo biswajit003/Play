@@ -1,0 +1,23 @@
+@(bookFrom : Form[Book])
+@import helper._
+<html>
+    <head>
+        <title>Edit Book</title>
+    </head>
+    <body>
+
+        <h1>Edit Book</h1>
+            @*This will do<form action="/books/create method="POST"*@
+            @helper.form(action = routes.BooksController.update()){
+                @helper.inputText(bookFrom("id"))
+                @helper.inputText(bookFrom("title"))
+                @helper.inputText(bookFrom("price"))
+                @helper.inputText(bookFrom("author"))
+
+                <input type="submit" value="Edit Book">
+
+                }
+    </body>
+</html>
+
+@*This will import all helper classes that we are ging to use to create form html for book*@

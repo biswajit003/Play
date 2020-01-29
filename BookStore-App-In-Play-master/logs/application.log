@@ -1,0 +1,5 @@
+2020-01-29 01:45:27,163 [INFO] from application in ForkJoinPool-4-worker-1 - ApplicationTimer demo: Starting application at 2020-01-28T20:15:27.163Z
+2020-01-29 01:45:28,286 [INFO] from play.api.Play in ForkJoinPool-4-worker-1 - Application started (Dev)
+2020-01-29 01:48:59,640 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Stopping application at 2020-01-28T20:18:59.640Z after 212s.
+2020-01-29 01:49:00,007 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Starting application at 2020-01-28T20:19:00.003Z
+2020-01-29 01:49:00,154 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
